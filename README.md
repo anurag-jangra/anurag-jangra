@@ -11,10 +11,9 @@
 - 📫 How to reach me ***jatinjangra236@gmail.com***
 
 - ⚡ Fun fact **I am not Funny 😄**
-
+<br>
 <p>
-<a href="https://www.linkedin.com/in/anurag-jangra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-jangra" height="30" width="40" /></a> <span>
-
+<a href="https://www.linkedin.com/in/anurag-jangra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-jangra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anurage30.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag-jangra" height="30" width="40" /></a>
 </p>
 
