@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/anurage30.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag-jangra" height="30" width="40" /></a>
 </p>
 
-<p>Maybe should hang-out sometimes (～￣▽￣)～
+<p>Maybe we should hang-out sometimes (～￣▽￣)～
 </p>
 <!--
 **anurag-jangra/anurag-jangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
