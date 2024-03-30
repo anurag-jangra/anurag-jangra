@@ -14,7 +14,7 @@
 <br>
 <p>
 <a href="https://www.linkedin.com/in/anurag-jangra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-jangra" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anurage30.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag-jangra" height="30" width="40" target="_blank"></a>
+<a href="https://www.instagram.com/anurage30.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag-jangra" height="30" width="40" /></a>
 </p>
 
 <!--
