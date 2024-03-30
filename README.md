@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Anurag Jangra</h1>
 
 
-- 🔭 I’m currently working on UI/UX Designing
+- 🔭 I’m currently working on Web Designing
 
-- 🌱 I’m currently learning **Blender and After Effects**
+- 🌱 I’m currently learning **Blender and Stuff**
 
-- 💬 Ask me about **CARS, hehe**
+- 💬 Ask me about **CARS** hehe
 
 - 📫 How to reach me ***jatinjangra236@gmail.com***
 
